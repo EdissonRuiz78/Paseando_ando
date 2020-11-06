@@ -1,8 +1,8 @@
 import React from "react";
+import apiKey from "./apiKey";
 
 const Photos = ({ photos, name }) => {
   const baseURL = "https://maps.googleapis.com/maps/api/place/photo?";
-  const apiKey = "AIzaSyAyJRx2tFg5bOeajPjEnocs6pp4kJLpg8I";
   const width = 200;
   const photo_reference = [];
   const photo = [];
