@@ -10,5 +10,5 @@
 - React rating: https://www.npmjs.com/package/react-rating
 
 # Make sure
-npm install
-npm start
+- npm install
+- npm start
